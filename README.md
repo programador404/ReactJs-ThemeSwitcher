@@ -12,7 +12,7 @@ This repository contain a theme switcher project created with ReactJs
 
 ## Technologies Used:
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) (Language)
-- - [Typescritp](https://www.typescriptlang.org/) (Typing)
+- [Typescritp](https://www.typescriptlang.org/) (Typing)
 - [React](https://pt-br.reactjs.org/) (Components)
 - [Styled-Components](https://styled-components.com/) (Styles)
 
